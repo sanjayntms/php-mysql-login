@@ -31,7 +31,7 @@ if($_POST['submit']) {
 <!DOCTYPE html>
 <html>
 <head>
-	<title>PHP-SQL Login</title>
+	<title>NTMS Training Institute-Azure Batch-PHP-SQL Login</title>
 </head>
 <body>
 <h1>Login</h1>
