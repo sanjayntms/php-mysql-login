@@ -19,7 +19,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Register</title>
+	<title>NTMS Training Institute-Azure Batch</title>
 </head>
 <body>
 <h1>Register</h1>
